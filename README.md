@@ -1,7 +1,7 @@
 # project-kyc-verification
 
 <div align="center">
- <h1>Rest-Smart-Contract-Multi-Chain</h1>
+ <h1>project-kyc-verification</h1>
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/ame-solar-energy.jpg" />
 <br><br>
